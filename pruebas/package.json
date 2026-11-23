@@ -1,0 +1,11 @@
+{
+  "name": "pruebas",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "cripto": "node pruebas-cripto.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0"
+  }
+}

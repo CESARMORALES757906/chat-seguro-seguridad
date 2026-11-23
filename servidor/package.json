@@ -1,0 +1,15 @@
+{
+  "name": "servidor",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node servidor.ts"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/ws": "^8.5.0"
+  }
+}
